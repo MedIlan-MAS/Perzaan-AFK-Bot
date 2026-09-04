@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "afk_bot",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "MedIlan_pvp.aternos.me:44583",
+    "port": 44583,
     "version": "1.21.1"
   },
   "position": {
@@ -22,7 +22,7 @@
       "password": "Perzuu"
     },
     "anti-afk": {
-      "enabled": true,
+      "enabled": false,
       "sneak": true
     },
     "chat-messages": {
